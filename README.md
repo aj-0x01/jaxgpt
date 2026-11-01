@@ -8,6 +8,7 @@ Built from first principles without external high-level frameworks (no Flax, Hai
 
 ## Table of Contents
 - [Architecture & Model Variants](#architecture--model-variants)
+
 - [Installation & Environment](#installation--environment)
 - [Dataset Preparation](#dataset-preparation)
 - [Training](#training)
