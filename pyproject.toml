@@ -1,0 +1,10 @@
+[project]
+name = "jaxgpt"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "datasets>=5.1.0",
+    "jax>=0.10.2",
+    "jax-mps>=0.10.11",
+    "tiktoken>=0.14.0",
+]

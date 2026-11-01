@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache & system files
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+
+# Runtime artifacts (datasets, binary token shards, training checkpoints, logs, weights)
+artifacts/
+data/
+test_data/
+checkpoints/
+*.biN
+
+# temporary files
+temp/
+tests/
